@@ -17,4 +17,12 @@ public class git_project_class {
 	private void test4() {
 		System.out.println("test4");
 	}
+
+	private void prasanth1() {
+		System.out.println("prasanth1");
+	}
+
+	private void prasanth2() {
+		System.out.println("prasanth");
+	}
 }
